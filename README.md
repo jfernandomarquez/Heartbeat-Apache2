@@ -9,6 +9,12 @@ Se presenta una configuración de heartbeat para tener una pagina web en alta di
 
 [![index](https://github.com/jfernandomarquez/Heartbeat-Apache2/blob/master/index.png)](https://jfernandomarquez.blogspot.com/) 
 
+## Topología
+
+[![config](https://github.com/jfernandomarquez/Heartbeat-Apache2/blob/master/topologia.png
+)](https://jfernandomarquez.blogspot.com/) 
+
+
 ## Configuración 
 
 [![config](https://github.com/jfernandomarquez/Heartbeat-Apache2/blob/master/configuraci%C3%B3n-heartbeat.png)](https://jfernandomarquez.blogspot.com/) 
