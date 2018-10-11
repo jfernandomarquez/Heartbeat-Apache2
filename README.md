@@ -18,3 +18,8 @@ Se presenta una configuración de heartbeat para tener una pagina web en alta di
 ## Configuración 
 
 [![config](https://github.com/jfernandomarquez/Heartbeat-Apache2/blob/master/configuraci%C3%B3n-heartbeat.png)](https://jfernandomarquez.blogspot.com/) 
+
+
+## Referencias
+
+https://www.youtube.com/watch?v=gjTNFxj06qU
