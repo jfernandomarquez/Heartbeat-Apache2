@@ -17,6 +17,8 @@ Se presenta una configuración de heartbeat para tener una pagina web en alta di
 
 ## Configuración 
 
+En ambos servidores se debe configuras los archivos que se ven en la siguiente imagen.
+
 [![config](https://github.com/jfernandomarquez/Heartbeat-Apache2/blob/master/configuraci%C3%B3n-heartbeat.png)](https://jfernandomarquez.blogspot.com/) 
 
 
