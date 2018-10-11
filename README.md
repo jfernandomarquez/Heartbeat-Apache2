@@ -22,6 +22,10 @@ En ambos servidores se debe configuras los archivos que se ven en la siguiente i
 [![config](https://github.com/jfernandomarquez/Heartbeat-Apache2/blob/master/configuraci%C3%B3n-heartbeat.png)](https://jfernandomarquez.blogspot.com/) 
 
 
+## Prueba
+
+Para probarlo se debe consultar la pagina web y verificar que se muestre la página del servidor primario(nodo1) y al detener heartbeat en dicho servidor se debe observar el cambio  la página del servidor secundario (nodo2)
+
 ## Referencias
 
 https://www.youtube.com/watch?v=gjTNFxj06qU
